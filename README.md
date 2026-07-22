@@ -1,16 +1,59 @@
-# expense_tracker
+# 💰 Expense Tracker App
 
-A new Flutter project.
+A cross-platform **Expense Tracker Application** built with **Flutter and Firebase** that helps users manage their daily expenses, track spending, and maintain financial records with a simple and intuitive interface.
 
-## Getting Started
+The app includes Firebase authentication, expense management, dashboard analytics, and local data storage using Shared Preferences for a smooth user experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Splash Screen
+<img src="assets/images/img_1.png" width="250"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Login Screen
+<img src="assets/images/img_2.png" width="250"/>
+
+### Forgot Password
+<img src="assets/images/img_3.png" width="250"/>
+
+### Expense Dashboard
+<img src="assets/images/img_4.png" width="250"/>
+
+### Add Expense Screen
+<img src="assets/images/img_5.png" width="250"/>
+
+### Settings Screen
+<img src="assets/images/img_6.png" width="250"/>
+
+---
+
+## ✨ Features
+
+- 🚀 Splash Screen
+  - User Login
+  - Forgot Password
+- 💰 Add and Manage Expenses
+- 📊 Expense Dashboard
+- 📈 Track Total Spending and Transactions
+- ⚙️ Settings Management
+- 💾 Local Storage using Shared Preferences
+- 🎨 Clean and Responsive Flutter UI
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- Flutter
+- Dart
+
+
+### Local Storage
+- Shared Preferences
+
+### Tools
+- Android Studio
+- Visual Studio Code
+- Git & GitHub
+
