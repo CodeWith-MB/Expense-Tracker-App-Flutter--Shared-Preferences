@@ -1,8 +1,7 @@
 # 💰 Expense Tracker App
 
-A cross-platform **Expense Tracker Application** built with **Flutter and Firebase** that helps users manage their daily expenses, track spending, and maintain financial records with a simple and intuitive interface.
-
-The app includes Firebase authentication, expense management, dashboard analytics, and local data storage using Shared Preferences for a smooth user experience.
+Developed a cross-platform **Expense Tracker App** using **Flutter** with secure login, expense management, and a dashboard to track spending and transactions. Implemented **Shared Preferences** for local data storage, 
+enabling users to save and manage their expense data efficiently with a smooth and responsive user experience.
 
 ---
 
