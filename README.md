@@ -5,28 +5,6 @@ enabling users to save and manage their expense data efficiently with a smooth a
 
 ---
 
-## 📱 App Screenshots
-
-### Splash Screen
-<img src="assets/images/img_1.png" width="250"/>
-
-### Login Screen
-<img src="assets/images/img_2.png" width="250"/>
-
-### Forgot Password
-<img src="assets/images/img_3.png" width="250"/>
-
-### Expense Dashboard
-<img src="assets/images/img_4.png" width="250"/>
-
-### Add Expense Screen
-<img src="assets/images/img_5.png" width="250"/>
-
-### Settings Screen
-<img src="assets/images/img_6.png" width="250"/>
-
----
-
 ## ✨ Features
 
 - 🚀 Splash Screen
@@ -51,8 +29,33 @@ enabling users to save and manage their expense data efficiently with a smooth a
 ### Local Storage
 - Shared Preferences
 
-### Tools
+- ### Tools
 - Android Studio
 - Visual Studio Code
 - Git & GitHub
+
+---
+
+## 📱 App Screenshots
+
+### Splash Screen
+<img src="assets/images/img_1.png" width="250"/>
+
+### Login Screen
+<img src="assets/images/img_2.png" width="250"/>
+
+### Forgot Password
+<img src="assets/images/img_3.png" width="250"/>
+
+### Expense Dashboard
+<img src="assets/images/img_4.png" width="250"/>
+
+### Add Expense Screen
+<img src="assets/images/img_5.png" width="250"/>
+
+### Settings Screen
+<img src="assets/images/img_6.png" width="250"/>
+
+
+
 
